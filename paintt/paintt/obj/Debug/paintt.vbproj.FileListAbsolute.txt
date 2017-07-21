@@ -1,0 +1,11 @@
+c:\users\cclc\documents\visual studio 2017\Projects\paintt\paintt\bin\Debug\paintt.exe.config
+c:\users\cclc\documents\visual studio 2017\Projects\paintt\paintt\bin\Debug\paintt.exe
+c:\users\cclc\documents\visual studio 2017\Projects\paintt\paintt\bin\Debug\paintt.pdb
+c:\users\cclc\documents\visual studio 2017\Projects\paintt\paintt\bin\Debug\paintt.xml
+c:\users\cclc\documents\visual studio 2017\Projects\paintt\paintt\obj\Debug\paintt.vbprojResolveAssemblyReference.cache
+c:\users\cclc\documents\visual studio 2017\Projects\paintt\paintt\obj\Debug\paintt.Form1.resources
+c:\users\cclc\documents\visual studio 2017\Projects\paintt\paintt\obj\Debug\paintt.Resources.resources
+c:\users\cclc\documents\visual studio 2017\Projects\paintt\paintt\obj\Debug\paintt.vbproj.GenerateResource.Cache
+c:\users\cclc\documents\visual studio 2017\Projects\paintt\paintt\obj\Debug\paintt.exe
+c:\users\cclc\documents\visual studio 2017\Projects\paintt\paintt\obj\Debug\paintt.xml
+c:\users\cclc\documents\visual studio 2017\Projects\paintt\paintt\obj\Debug\paintt.pdb
